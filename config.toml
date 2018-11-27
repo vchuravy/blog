@@ -1,0 +1,4 @@
+baseURL = "https://vastness.org/"
+languageCode = "en-us"
+title = "Valentin Churavy ~ vastness.org"
+theme = "beautifulhugo"
